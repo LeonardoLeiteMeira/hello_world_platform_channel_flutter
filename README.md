@@ -1,7 +1,9 @@
 # platform_channel_test
 
-A new Flutter project.
+Simple example to access platform channel on flutter. I used the reference in [documentation](https://docs.flutter.dev/development/platform-integration/platform-channels?tab=android-channel-java-tab) to access native Java code. 
 
+
+---
 ## Getting Started
 
 This project is a starting point for a Flutter application.
