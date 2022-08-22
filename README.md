@@ -1,6 +1,6 @@
 # platform_channel_test
 
-Simple example to access platform channel on flutter. I used the reference in [documentation](https://docs.flutter.dev/development/platform-integration/platform-channels?tab=android-channel-java-tab) to access native Java code. 
+Simple example to access the platform channel on flutter. I used the reference in the [documentation](https://docs.flutter.dev/development/platform-integration/platform-channels?tab=android-channel-java-tab) to access native Java code. 
 
 
 ---
